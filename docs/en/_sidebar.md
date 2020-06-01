@@ -1,7 +1,6 @@
 * [Homepage](/en/)
 * [Installazione](/en/install.md)
 * [Abbonamenti](/en/plans.md)
-* [FAQ](/en/faq.md)
 * [Registrazione e accesso](/en/register_access.md)
 * [Dashboard](/en/dashboard.md)
 * [Wallet](/en/wallet.md)

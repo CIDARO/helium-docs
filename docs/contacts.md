@@ -1,6 +1,6 @@
 # Contatti
 
-La sezione "Contatti" è riservata agli account PRO. Nella sezione contatti è possibile aggiungere un contatto e vedere quelli precedentemente registrati.
+!> La sezione "Contatti" è riservata agli account PRO. Nella sezione contatti è possibile aggiungere un contatto e vedere quelli precedentemente registrati.
 
 ## Aggiunta contatto
 
