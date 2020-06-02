@@ -25,7 +25,7 @@ CIDARO srl consiglia di attenersi alla seguente password policy onde evitare acc
 
 Al momento della registrazione viene inviata una email all’indirizzo fornito per confermarne l’esistenza; l’account viene eliminato in caso di mancata conferma entro 30 giorni. Per confermare il proprio account, basta cliccare sul link contenuto all’interno della mail ricevuta.
 
-## Accesso 
+## Accesso
 
 Per accedere ad Helium con un account esistente vengono richieste le seguenti informazioni personali:
 - Indirizzo email
@@ -33,4 +33,7 @@ Per accedere ad Helium con un account esistente vengono richieste le seguenti in
 
 ## Reimpostazione password
 
-:warning: Work in progress. :construction:
+
+Per reimpostare la password del proprio account Helium, è necessario navigare nella sezione Impostazioni alla voce “Profilo”.
+
+Nella sezione “Profilo” è possibile cambiare la password inserendola alla voce “Password” e confermandola alla voce “Conferma Password”.
