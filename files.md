@@ -8,7 +8,7 @@ La barra di ricerca è utilizzabile per ricercare un file inserendone il nome.
 
 
 Il tasto rosso “Solo file certificati” e il tasto verde “Solo file certificati” sono filtri utilizzabili per visualizzare solo la tipologia di file desiderata.
-I file solamente caricati su IPFS appaiono di colore verde nell'elenco dei file. I file caricati su IPFS e certificati su blockchain Ethereum appaiono di colore rosso nell’elenco dei file.
+I file solamente caricati su IPFS appaiono di colore verde nell'elenco dei file. I file caricati su IPFS e certificati su Blockchain Ethereum appaiono di colore rosso nell’elenco dei file.
 
 Per aggiornare l’elenco dei file è sufficiente ricaricare la pagina con uno swipe-down dall’alto verso il basso.
 
@@ -25,7 +25,14 @@ Cliccando sul file desiderato, è possibile vedere informazioni circa:
 
 ## Eliminazione file
 
-:warning: Work in progress. :construction:
+Per eliminare uno o più dei tuoi file, occorre navigare nella sezione “I Tuoi File” e tenere premuto sul file che si vuole eliminare. Per procedere all’eliminazione del file cliccare su “conferma”. 
+
+Eliminando un file questo non potrà più essere visto dagli utenti con cui il file è stato precedentemente condiviso.
+
+Un file condiviso può essere eliminato solo dall’utente che l’ha caricato. 
+
+Un file condiviso non può essere eliminato dall’utente ricevente. 
+
 
 ## Hash IPFS del file
 
@@ -35,24 +42,24 @@ Tale hash è il codice identificativo del file all’interno del file system dec
 
 ## Hash certificazione Ethereum
 
-Cliccando sul file desiderato contenuto nell’elenco dei file nella sezione “I tuoi file”, è possibile vedere l’hash della transazione eseguita per la certificazione su blockchain Ethereum alla voce “Certificazione”. 
+Cliccando sul file desiderato contenuto nell’elenco dei file nella sezione “I tuoi file”, è possibile vedere l’hash della transazione eseguita per la certificazione su Blockchain Ethereum alla voce “Certificazione”. 
 
 L’hash della transazione di certificazione è visibile solo per i file precedentemente certificati e colorati di rosso nell’elenco dei file nella sezione “I tuoi file”.
-Tale hash è il codice identificativo della transazione di certificazione sulla blockchain di Ethereum.
+Tale hash è il codice identificativo della transazione di certificazione sulla Blockchain di Ethereum.
 
 ## Transazione Etherscan
 
-Cliccando sul tasto “Vedi su Etherscan”, si visualizza la transazione eseguita per la certificazione su blockchain Ethereum direttamente su Etherscan.
+Cliccando sul tasto “Vedi su Etherscan”, si visualizza la transazione eseguita per la certificazione su Blockchain Ethereum direttamente su Etherscan.
 
 La pagina contiene le seguenti informazioni:
 - Hash della transazione alla voce “Transaction Hash:”
 - Stato della transazione alla voce “Status:”
-- Blocco della blockchain Etereum in cui è contenuta la transazione in oggetto. Visibile alla voce “Block:”
-- Data e ora nel quale la transazione è stata confermata sulla blockchain Ethereum. Visibile alla voce “Timestamp:”
-- Address dell’account dell’utente che ha eseguito la transazione di certificazione del file. Visibile alla voce “Fom:”
+- Blocco della Blockchain Ethereum in cui è contenuta la transazione in oggetto. Visibile alla voce “Block:”
+- Data e ora nel quale la transazione è stata confermata sulla Blockchain Ethereum. Visibile alla voce “Timestamp:”
+- Address dell’account dell’utente che ha eseguito la transazione di certificazione del file. Visibile alla voce “From:”
 - Address dello smart contract tramite il quale si realizza la transazione. Visibile di certificazione alla voce “To:”
 - Quantità di Ether transata all'interno della transazione in oggetto Visibile alla voce “Value:”. Nel caso di Helium, tale valore è sempre uguale a 0.
-- Costo pagato di commissioni (o “Gas Price”) che la blockchain Ethereum richiede per poter eseguire la transazione. Visibile alla voce “Transaction Fee:”.
+- Costo pagato di commissioni che la Blockchain Ethereum ha richiesto per poter eseguire la transazione. Visibile alla voce “Transaction Fee:”.
 - Tale costo è pagato direttamente dall’utente tramite il suo wallet nel caso di account FREE. Nel caso di account PRO, il costo non viene pagato dall’utente. Per approfondire il funzionamento dell’account PRO si veda la sezione "Abbonamenti"
 
 ## Download file
